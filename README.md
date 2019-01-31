@@ -1,7 +1,7 @@
-#PERMISSIONS
-##Home Page
-###Owner: Silent Sonata
-###Maintainer: dbowiecag
+# PERMISSIONS
+## Home Page
+### Owner: Silent Sonata
+### Maintainer: dbowiecag
 
 *For any modifications please contact the directory's maintainer stated above via slack.*
 
