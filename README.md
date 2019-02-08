@@ -1,10 +1,10 @@
-# PERMISSIONS
-## Home Page
+# media-landing
 ### Owner: Silent Sonata
-### Maintainer: dbowiecag
+### Maintainer: Silent Sonata
 
 *For any modifications please contact the directory's maintainer stated above via slack.*
 
+A web form that allows staff and ministries to submit request to the media team.
 
 * All modifications should be made by the maintainer or editors.
 * The owner at any time can override an edit by a maintainer or editor (must have a reason and contact the respective maintainer and editors)
