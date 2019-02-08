@@ -1,10 +1,12 @@
 $(document).ready(function() {
     $("#serveButton") .click (function(){
+        $("#homepage").hide();
         $("#servantMinisterForm").fadeIn();
         $("#requestForm").hide();
    	 }); 
 
     $("#requestButton") .click (function(){
+        $("#homepage").hide();
         $("#servantMinisterForm").hide();
         $("#requestForm").fadeIn();
      }); 
