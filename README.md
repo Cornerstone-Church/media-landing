@@ -1,5 +1,5 @@
 # PERMISSIONS
-## Home Page
+## media-landing Project
 ### Owner: Silent Sonata
 ### Maintainer: dbowiecag
 
